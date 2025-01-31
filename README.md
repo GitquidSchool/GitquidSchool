@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m a student<br>- 📚 I'm currently learning to make a difference<br>- ⚡ In my free time I lift, play sports, and chill with my friends</p>
+<p align="left">- 🔭 I’m a student<br>- 📚 Currently learning how Networks work<br>- ⚡ In my free time I lift, play sports, and do random activities with my friends</p>
 
 ###
 
